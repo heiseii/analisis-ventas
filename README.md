@@ -1,9 +1,9 @@
-# Análisis de Ventas 2024
+# Análisis de Ventas
 
 ## Integrantes
-- [Tu nombre] (Hugo - Líder y Organizador)
-- [Nombre compañero] (Paco - Desarrollador Técnico)
-- [Nombre compañero] (Luis - Revisor y QA)
+- Hugo | Líder y Organizador
+- Paco | Desarrollador Técnico 
+- Luis | Revisor y QA
 
 ## Descripción
 Este proyecto analiza registros de ventas diarias de una pequeña empresa
